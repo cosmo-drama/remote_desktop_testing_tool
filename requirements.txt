@@ -1,0 +1,10 @@
+ifcfg==0.21
+keyring==21.4.0
+pycparser==2.20
+pylint==2.6.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pywin32-ctypes==0.2.0
+requests==2.24.0
+urllib3==1.25.10
+
